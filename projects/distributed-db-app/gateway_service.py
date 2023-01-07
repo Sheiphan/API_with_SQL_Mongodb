@@ -51,3 +51,6 @@ def handle_app_requests():
 # run flask app
 if __name__ == '__main__':
     app.run(host='localhost', port=9000, debug=True)
+
+
+#just to test
